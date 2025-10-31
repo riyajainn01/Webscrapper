@@ -68,10 +68,5 @@ We welcome contributions to ScraperTool! Here’s how you can help:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For any issues or questions, feel free to contact us:
-
-- Email: kartikmehta650@gmail.com
 - Website: [htmlwebscraper](https://htmlwebscraper.vercel.app/)
+
